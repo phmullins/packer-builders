@@ -11,4 +11,4 @@ All builders need to be configured with the proper credentials before they can b
 Created by [Patrick H. Mullins](http://www.pmullins.net/about). You can find me on  [Twitter](https://twitter.com/phmullins) and on [Telegram](https://telegram.org/) as @pmullins.
 
 ## License
-Source is released under the FreeBSD (BSD-2-Clause) License [license](license.md).
+Source is released under the MIT License (MIT) [license](license.md).
